@@ -35,7 +35,7 @@ body {
   color: var(--navyblue);
 }
 .header-text {
-  /* color: var(--navyblue); */
+  color: var(--slate);
   text-decoration: none;
 }
 
