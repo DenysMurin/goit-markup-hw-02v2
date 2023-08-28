@@ -60,6 +60,7 @@ body{
     color: var(--navyblue);
 }
 .inside-text{
+    font-style: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
 }
@@ -80,7 +81,7 @@ body{
 .card-background{
     background-color: var(--white);
 }
-.name{
+.centered{
     text-align: center;
 }
 /* OUR PORTFOLIO */
