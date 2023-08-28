@@ -2,7 +2,7 @@
 
 body{
     font-family: "Roboto", sans-serif;
-    color: var(--navyblue);
+    color: var(--slate);
     background-color: var(--white);
 }
 :root{
@@ -47,7 +47,7 @@ body{
     cursor: pointer;
 }
 .hero-button:hover,
-..hero-button:focus{background-color: var(--ocean);}
+.hero-button:focus{background-color: var(--ocean);}
 
 /* ADVANTAGES */
 
