@@ -29,6 +29,26 @@ body{
 /* !MAIN */
 /* HERO */
 .hero-background{background-color:var(--navyblue);}
+.first-title{
+    color: var(--white);
+    text-align: center;
+    font-size: 56px;
+    line-height: 1.07;
+    letter-spacing: 0.02em;
+}
+.hero-button{
+    background-color: var(--iris);
+    font-family: "Roboto", sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    color: var(--white);
+    cursor: pointer;
+}
+.hero-button:hover,
+..hero-button:focus{background-color: var(--ocean);}
+
 /* ADVANTAGES */
 
 /* OUR TEAM */
