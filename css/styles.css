@@ -2,6 +2,7 @@
 
 body{
     font-family: "Roboto", sans-serif;
+    font-weight: 400;
     color: var(--slate);
     background-color: var(--white);
 }
@@ -56,6 +57,11 @@ body{
     font-weight: 500;
     line-height: 1.2;
     letter-spacing: 0.02em;
+    color: var(--navyblue);
+}
+.inside-text{
+    line-height: 1.5;
+    letter-spacing: 0.02;
 }
 
 /* OUR TEAM */
