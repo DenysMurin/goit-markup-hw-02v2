@@ -50,6 +50,13 @@ body{
 .hero-button:focus{background-color: var(--ocean);}
 
 /* ADVANTAGES */
+.title-three{
+    font-family: "Roboto",sans-serif;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+}
 
 /* OUR TEAM */
 .team-background{
