@@ -30,7 +30,7 @@ body{
 /* !MAIN */
 /* HERO */
 .hero-background{background-color:var(--navyblue);}
-.first-title{
+.title-one{
     color: var(--white);
     text-align: center;
     font-size: 56px;
@@ -71,7 +71,7 @@ body{
 }
 .title-two{
     color: var(--navyblue);
-    font-style: 36px;
+    font-size: 36px;
     font-weight: 700;
     line-height: 1.11;
     letter-spacing: 0.02em;
