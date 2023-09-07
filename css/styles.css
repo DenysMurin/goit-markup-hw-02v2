@@ -6,6 +6,12 @@ body {
   color: var(--slate);
   background-color: var(--white);
 }
+ul {
+  list-style-type: none;
+}
+a {
+  text-decoration: none;
+}
 :root {
   --iris: #4d5ae5;
   --ocean: #404bbf;
@@ -20,7 +26,6 @@ body {
   --white: #ffffff;
   --dairy: #fcfcfc;
 }
-.no-list{list-style: none;}
 
 /* !HEADER */
 .full-logo {
@@ -31,14 +36,12 @@ body {
   line-height: 1.17;
   letter-spacing: 0.03em;
   text-transform: uppercase;
-  text-decoration: none;
 }
 .studio-logo {
   color: var(--navyblue);
 }
 .header-text {
   color: var(--slate);
-  text-decoration: none;
 }
 
 .header-text:hover,
